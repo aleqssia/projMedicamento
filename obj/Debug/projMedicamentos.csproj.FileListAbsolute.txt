@@ -1,0 +1,6 @@
+C:\Users\Aluno\Desktop\projMedicamentos\projMedicamentos\projMedicamentos\bin\Debug\projMedicamentos.exe.config
+C:\Users\Aluno\Desktop\projMedicamentos\projMedicamentos\projMedicamentos\obj\Debug\projMedicamentos.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\projMedicamentos\projMedicamentos\projMedicamentos\bin\Debug\projMedicamentos.exe
+C:\Users\Aluno\Desktop\projMedicamentos\projMedicamentos\projMedicamentos\bin\Debug\projMedicamentos.pdb
+C:\Users\Aluno\Desktop\projMedicamentos\projMedicamentos\projMedicamentos\obj\Debug\projMedicamentos.exe
+C:\Users\Aluno\Desktop\projMedicamentos\projMedicamentos\projMedicamentos\obj\Debug\projMedicamentos.pdb
